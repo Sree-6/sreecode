@@ -1,0 +1,54 @@
+TransactionID,UserID,Amount,TransactionTime,Merchant,Category,Location,Device,IPAddress,IsFraud
+1,101,55.75,2023-01-01 10:30:00,Electronics Store,Shopping,"Coimbatore, Tamil Nadu",Mobile,192.168.1.100,0
+2,102,120.5,2023-01-01 10:45:15,Online Retailer,Shopping,"Chennai, Tamil Nadu",Web,10.0.0.5,0
+3,103,19.99,2023-01-01 11:00:30,Coffee Shop,Food & Beverage,"Coimbatore, Tamil Nadu",Mobile,172.16.0.1,0
+4,104,310.2,2023-01-01 11:15:45,Luxury Goods Store,Shopping,"Bangalore, Karnataka",Web,192.168.1.101,1
+5,105,89.9,2023-01-01 11:30:00,Bookstore,Books,"Coimbatore, Tamil Nadu",Mobile,10.0.0.6,0
+6,101,78.45,2023-01-01 11:45:15,Restaurant,Food & Beverage,"Mumbai, Maharashtra",Mobile,172.16.0.2,0
+7,106,45,2023-01-01 12:00:30,Grocery Store,Groceries,"Coimbatore, Tamil Nadu",Web,192.168.1.102,0
+8,107,255.6,2023-01-01 12:15:45,Travel Agency,Travel,"Delhi, Delhi",Web,10.0.0.7,1
+9,102,15.25,2023-01-01 12:30:00,Convenience Store,Other,"Coimbatore, Tamil Nadu",Mobile,172.16.0.3,0
+10,108,95.1,2023-01-01 12:45:15,Clothing Store,Shopping,"Hyderabad, Telangana",Mobile,192.168.1.103,0
+11,109,62.8,2023-01-01 13:00:30,Pharmacy,Health & Personal Care,"Coimbatore, Tamil Nadu",Web,10.0.0.8,0
+12,110,415.75,2023-01-01 13:15:45,Jewelry Store,Luxury Goods,"Kolkata, West Bengal",Web,172.16.0.4,1
+13,103,22.5,2023-01-01 13:30:00,Bakery,Food & Beverage,"Coimbatore, Tamil Nadu",Mobile,192.168.1.104,0
+14,111,135.99,2023-01-01 13:45:15,Electronics Store,Shopping,"Pune, Maharashtra",Mobile,10.0.0.9,0
+15,104,38.6,2023-01-01 14:00:30,Gas Station,Transportation,"Coimbatore, Tamil Nadu",Web,172.16.0.5,0
+16,112,280.4,2023-01-01 14:15:45,Furniture Store,Home Goods,"Ahmedabad, Gujarat",Web,192.168.1.105,1
+17,105,51.25,2023-01-01 14:30:00,Pet Store,Other,"Coimbatore, Tamil Nadu",Mobile,10.0.0.10,0
+18,113,110.7,2023-01-01 14:45:15,Sports Store,Shopping,"Lucknow, Uttar Pradesh",Mobile,172.16.0.6,0
+19,106,72.95,2023-01-01 15:00:30,Movie Theater,Entertainment,"Coimbatore, Tamil Nadu",Web,192.168.1.106,0
+20,114,450,2023-01-01 15:15:45,Art Gallery,Luxury Goods,"Jaipur, Rajasthan",Web,10.0.0.11,1
+21,107,30.5,2023-01-01 15:30:00,Hardware Store,Home Improvement,"Coimbatore, Tamil Nadu",Mobile,172.16.0.7,0
+22,115,165.3,2023-01-01 15:45:15,Toy Store,Shopping,"Kanpur, Uttar Pradesh",Mobile,192.168.1.107,0
+23,108,81.15,2023-01-01 16:00:30,Salon,Personal Care,"Coimbatore, Tamil Nadu",Web,10.0.0.12,0
+24,116,325.8,2023-01-01 16:15:45,Car Rental,Transportation,"Nagpur, Maharashtra",Web,172.16.0.8,1
+25,109,48.75,2023-01-01 16:30:00,Florist,Other,"Coimbatore, Tamil Nadu",Mobile,192.168.1.108,0
+26,117,140.2,2023-01-01 16:45:15,Shoe Store,Shopping,"Indore, Madhya Pradesh",Mobile,10.0.0.13,0
+27,110,92.55,2023-01-01 17:00:30,Spa,Health & Personal Care,"Coimbatore, Tamil Nadu",Web,172.16.0.9,0
+28,118,480.6,2023-01-01 17:15:45,Antique Shop,Luxury Goods,"Bhopal, Madhya Pradesh",Web,192.168.1.109,1
+29,101,28.9,2023-01-02 9:00:00,Convenience Store,Other,"Coimbatore, Tamil Nadu",Mobile,10.0.0.14,0
+30,102,175.4,2023-01-02 9:15:15,Online Retailer,Shopping,"Chennai, Tamil Nadu",Web,172.16.0.10,0
+31,103,65.2,2023-01-02 9:30:30,Restaurant,Food & Beverage,"Coimbatore, Tamil Nadu",Mobile,192.168.1.110,0
+32,104,210.15,2023-01-02 9:45:45,Electronics Store,Shopping,"Bangalore, Karnataka",Web,10.0.0.15,1
+33,105,42.75,2023-01-02 10:00:00,Bookstore,Books,"Coimbatore, Tamil Nadu",Mobile,172.16.0.11,0
+34,106,105.8,2023-01-02 10:15:15,Coffee Shop,Food & Beverage,"Mumbai, Maharashtra",Mobile,192.168.1.111,0
+35,107,71.3,2023-01-02 10:30:30,Grocery Store,Groceries,"Coimbatore, Tamil Nadu",Web,10.0.0.16,0
+36,108,350.5,2023-01-02 10:45:45,Travel Agency,Travel,"Delhi, Delhi",Web,172.16.0.12,1
+37,109,18.5,2023-01-02 11:00:00,Bakery,Food & Beverage,"Coimbatore, Tamil Nadu",Mobile,192.168.1.112,0
+38,110,125.65,2023-01-02 11:15:15,Clothing Store,Shopping,"Hyderabad, Telangana",Mobile,10.0.0.17,0
+39,111,58.9,2023-01-02 11:30:30,Pharmacy,Health & Personal Care,"Coimbatore, Tamil Nadu",Web,172.16.0.13,0
+40,112,420.8,2023-01-02 11:45:45,Jewelry Store,Luxury Goods,"Kolkata, West Bengal",Web,192.168.1.113,1
+41,113,25.15,2023-01-02 12:00:00,Hardware Store,Home Improvement,"Coimbatore, Tamil Nadu",Mobile,10.0.0.18,0
+42,114,155.75,2023-01-02 12:15:15,Toy Store,Shopping,"Kanpur, Uttar Pradesh",Mobile,172.16.0.14,0
+43,115,79.4,2023-01-02 12:30:30,Salon,Personal Care,"Coimbatore, Tamil Nadu",Web,192.168.1.114,0
+44,116,315.2,2023-01-02 12:45:45,Car Rental,Transportation,"Nagpur, Maharashtra",Web,10.0.0.19,1
+45,117,41.95,2023-01-02 13:00:00,Florist,Other,"Coimbatore, Tamil Nadu",Mobile,172.16.0.15,0
+46,118,130.5,2023-01-02 13:15:15,Shoe Store,Shopping,"Indore, Madhya Pradesh",Mobile,192.168.1.115,0
+47,101,88.25,2023-01-02 13:30:30,Spa,Health & Personal Care,"Coimbatore, Tamil Nadu",Web,10.0.0.20,0
+48,102,490.1,2023-01-02 13:45:45,Antique Shop,Luxury Goods,"Bhopal, Madhya Pradesh",Web,172.16.0.16,1
+49,103,35.6,2023-01-03 14:00:00,Convenience Store,Other,"Coimbatore, Tamil Nadu",Mobile,192.168.1.116,0
+50,104,195.8,2023-01-03 14:15:15,Online Retailer,Shopping,"Chennai, Tamil Nadu",Web,10.0.0.21,0
+51,105,70.95,2023-01-03 14:30:30,Restaurant,Food & Beverage,"Coimbatore, Tamil Nadu",Mobile,172.16.0.17,0
+52,106,220.3,2023-01-03 14:45:45,Electronics Store,Shopping,"Bangalore, Karnataka",Web,192.168.1.117,1
+53,107,45.5,2023-01-03 15:00:00,Bookstore,Books,"Coimbatore, Tamil Nadu",,,
